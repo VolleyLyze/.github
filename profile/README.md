@@ -1,4 +1,5 @@
-# VolleyLyze 🏐
+![VolleyLyze Logo](logo-horizontal.png)
+---
 
 **VolleyLyze** is a modern volleyball analysis platform designed to bring 
 data-driven insights to players, coaches, teams and scouts.
